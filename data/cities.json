@@ -1,0 +1,256 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Balatonfured",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2026-01-09T19:33:30.244Z",
+      "notes": "Kataa",
+      "position": {
+        "lat": "46.95682401609411",
+        "lng": "17.88436889648438"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Venice",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2026-01-10T20:43:36.530Z",
+      "notes": "",
+      "position": {
+        "lat": "45.436526472272526",
+        "lng": "12.333869934082033"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Taormina",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2026-01-10T20:45:31.654Z",
+      "notes": "",
+      "position": {
+        "lat": "37.854220397338125",
+        "lng": "15.288548469543459"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Valencia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-01-10T20:46:14.923Z",
+      "notes": "",
+      "position": {
+        "lat": "39.470125122358176",
+        "lng": "-0.3680419921875"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-01-10T20:46:32.624Z",
+      "notes": "",
+      "position": {
+        "lat": "41.386597467879106",
+        "lng": "2.177696228027344"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Faro",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2026-01-10T20:47:05.131Z",
+      "notes": "",
+      "position": {
+        "lat": "37.017905231730914",
+        "lng": "-7.931442260742188"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Ponta Delgada",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2026-01-10T20:47:43.700Z",
+      "notes": "",
+      "position": {
+        "lat": "37.7434354446725",
+        "lng": "-25.672302246093754"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Pula",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2026-01-10T20:49:05.470Z",
+      "notes": "",
+      "position": {
+        "lat": "44.864629668602866",
+        "lng": "13.846893310546877"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Punat",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2026-01-10T20:49:44.730Z",
+      "notes": "",
+      "position": {
+        "lat": "45.02004963154759",
+        "lng": "14.630720615386965"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Opatija",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2026-01-10T20:50:03.727Z",
+      "notes": "",
+      "position": {
+        "lat": "45.33483153254683",
+        "lng": "14.305787086486818"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Vela Luka",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2026-01-10T20:51:43.932Z",
+      "notes": "",
+      "position": {
+        "lat": "42.967540132329106",
+        "lng": "16.71033382415772"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Trogir",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2026-01-10T20:52:55.926Z",
+      "notes": "",
+      "position": {
+        "lat": "43.51695306367275",
+        "lng": "16.251032352447513"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Bled",
+      "country": "Slovenia",
+      "emoji": "🇸🇮",
+      "date": "2026-01-10T20:53:36.657Z",
+      "notes": "",
+      "position": {
+        "lat": "46.36724592082726",
+        "lng": "14.111938476562502"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Graz",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2026-01-10T20:55:22.356Z",
+      "notes": "",
+      "position": {
+        "lat": "47.072577067131746",
+        "lng": "15.441627502441408"
+      },
+      "id": 98443212
+    },
+    {
+      "cityName": "Prague",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2026-01-10T20:55:45.728Z",
+      "notes": "",
+      "position": {
+        "lat": "50.0832515814835",
+        "lng": "14.405822753906252"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Zakopane",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2026-01-10T20:56:13.939Z",
+      "notes": "",
+      "position": {
+        "lat": "49.297675030300816",
+        "lng": "19.95001316070557"
+      },
+      "id": 98443214
+    },
+    {
+      "cityName": "Durres",
+      "country": "Albania",
+      "emoji": "🇦🇱",
+      "date": "2026-01-10T20:56:43.593Z",
+      "notes": "",
+      "position": {
+        "lat": "41.317270643642104",
+        "lng": "19.446401596069336"
+      },
+      "id": 98443215
+    },
+    {
+      "cityName": "Eindhoven",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2026-01-10T20:57:35.866Z",
+      "notes": "",
+      "position": {
+        "lat": "51.44809929171996",
+        "lng": "5.476134804628923"
+      },
+      "id": 98443216
+    },
+    {
+      "cityName": "Borken",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2026-01-10T20:59:01.309Z",
+      "notes": "",
+      "position": {
+        "lat": "51.84659562372163",
+        "lng": "6.8596744537353525"
+      },
+      "id": 98443217
+    },
+    {
+      "cityName": "Krakow",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2026-01-10T21:01:47.361Z",
+      "notes": "",
+      "position": {
+        "lat": "50.064412124972215",
+        "lng": "19.93898391723633"
+      },
+      "id": 98443218
+    }
+  ]
+}
