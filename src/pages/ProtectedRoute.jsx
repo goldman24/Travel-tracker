@@ -1,17 +1,15 @@
-import { useNavigate } from "react-router-dom";
+import { Navigate, useLocation } from "react-router-dom";
 import { useAuth } from "../contexts/FakeAuthContext";
-import { useEffect } from "react";
 
 function ProtectedRoute({ children }) {
   const { isAuthenticated } = useAuth();
-  const navigate = useNavigate();
+  const location = useLocation();
 
-  useEffect(() => {
-    if (!isAuthenticated) navigate("/");
-  }, [isAuthenticated, navigate]);
+  if (!isAuthenticated) {
+    return <Navigate to="/login" replace state={{ from: location }} />;
+  }
 
-  // 240 es videoban magyarazva felenel kb
-  return isAuthenticated ? children : null;
+  return children;
 }
 
 export default ProtectedRoute;
